@@ -71,7 +71,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          To keep ReqRes free, contributions towards server costs are appreciated!
+          To keep ReqRes free, contributions towards server costs are appreciated
         </a>
       </header>
     </div>
